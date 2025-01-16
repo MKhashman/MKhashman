@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Moatasem Khashman 👋</h1>
+<h1 align="center">Motasem Khashman 👋</h1>
 <p align="center">
   <b>Senior Full-Stack Developer | 10+ Years of Experience</b>  
 </p>
