@@ -84,7 +84,7 @@ As a seasoned <b>Senior Full-Stack Developer</b> with over <b>10 years</b> of ha
 <h2 align="left">📬 Let's Connect</h2>
 <p>
   - 📧 <b>Email:</b> <a href="mailto:khashmanmoatasem@gmail.com">khashmanmoatasem@gmail.com</a><br>
-  - 🌐 <b>Portfolio:</b> <a href="https://yourportfolio.com">yourportfolio.com</a><br>
+  - 🌐 <b>Portfolio:</b> <a href="https://motasemk.vercel.app/">Portfolio.com</a><br>
 </p>
 
 ---
